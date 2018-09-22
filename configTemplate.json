@@ -1,0 +1,6 @@
+{
+    "SENDGRID_API_KEY" : "<SendGrid API Key>",
+    "AIRTABLE_API_KEY" : "<AirTable API Key>",
+    "BASE_ID" : "<Base Email>",
+    "FROM_EMAIL" : "<Sender Email>"
+}
